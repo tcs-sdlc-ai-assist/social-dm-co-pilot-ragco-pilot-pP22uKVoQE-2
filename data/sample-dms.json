@@ -1,0 +1,122 @@
+[
+  {
+    "id": "dm-001",
+    "platform": "facebook",
+    "timestamp": "2025-01-15T09:23:00Z",
+    "senderName": "Maria Garcia",
+    "senderHandle": "@mariagarcia",
+    "senderAvatar": "https://i.pravatar.cc/150?u=mariagarcia",
+    "content": "Hi! I saw your listing for the 3-bedroom condo in Downtown Miami. Is it still available? I'm looking to move in by March.",
+    "status": "new"
+  },
+  {
+    "id": "dm-002",
+    "platform": "instagram",
+    "timestamp": "2025-01-15T10:05:00Z",
+    "senderName": "James Thompson",
+    "senderHandle": "@jamesthompson_re",
+    "senderAvatar": "https://i.pravatar.cc/150?u=jamesthompson",
+    "content": "What's the price range for 2-bedroom apartments in Brickell? My budget is around $500K. Can you send me some options?",
+    "status": "new"
+  },
+  {
+    "id": "dm-003",
+    "platform": "facebook",
+    "timestamp": "2025-01-15T11:30:00Z",
+    "senderName": "Sarah Chen",
+    "senderHandle": "@sarahchen88",
+    "senderAvatar": "https://i.pravatar.cc/150?u=sarahchen88",
+    "content": "I'd love to schedule a tour of the waterfront property you posted last week. Are weekends available for showings?",
+    "status": "drafted"
+  },
+  {
+    "id": "dm-004",
+    "platform": "instagram",
+    "timestamp": "2025-01-15T12:15:00Z",
+    "senderName": "Robert Williams",
+    "senderHandle": "@rob_williams",
+    "senderAvatar": "https://i.pravatar.cc/150?u=rob_williams",
+    "content": "Do you have any pet-friendly rentals in the Coral Gables area? Looking for something under $3,000/month with at least 2 bedrooms.",
+    "status": "new"
+  },
+  {
+    "id": "dm-005",
+    "platform": "facebook",
+    "timestamp": "2025-01-15T13:45:00Z",
+    "senderName": "Emily Rodriguez",
+    "senderHandle": "@emilyrodriguez",
+    "senderAvatar": "https://i.pravatar.cc/150?u=emilyrodriguez",
+    "content": "We're relocating from New York and need a family home with good school districts. Budget is $750K-$1M. Can you help us find something in Coconut Grove?",
+    "status": "new"
+  },
+  {
+    "id": "dm-006",
+    "platform": "instagram",
+    "timestamp": "2025-01-15T14:20:00Z",
+    "senderName": "David Park",
+    "senderHandle": "@davidpark_invest",
+    "senderAvatar": "https://i.pravatar.cc/150?u=davidpark",
+    "content": "I'm an investor looking at multi-family properties in Miami-Dade. What's the current cap rate for a 4-unit building? Do you have any off-market deals?",
+    "status": "escalated"
+  },
+  {
+    "id": "dm-007",
+    "platform": "facebook",
+    "timestamp": "2025-01-15T15:00:00Z",
+    "senderName": "Lisa Martinez",
+    "senderHandle": "@lisamartinez",
+    "senderAvatar": "https://i.pravatar.cc/150?u=lisamartinez",
+    "content": "Just curious — what are the HOA fees for the Ocean Tower units? Also, is parking included?",
+    "status": "drafted"
+  },
+  {
+    "id": "dm-008",
+    "platform": "instagram",
+    "timestamp": "2025-01-15T15:45:00Z",
+    "senderName": "Michael Johnson",
+    "senderHandle": "@mikejohnson",
+    "senderAvatar": "https://i.pravatar.cc/150?u=mikejohnson",
+    "content": "Hey, I saw your open house event this Saturday. Can I bring my realtor along? Also, is the property FHA-approved?",
+    "status": "new"
+  },
+  {
+    "id": "dm-009",
+    "platform": "facebook",
+    "timestamp": "2025-01-15T16:30:00Z",
+    "senderName": "Amanda Foster",
+    "senderHandle": "@amandafoster",
+    "senderAvatar": "https://i.pravatar.cc/150?u=amandafoster",
+    "content": "I'm a first-time homebuyer. Do you work with any lenders that offer down payment assistance programs? Looking at properties around $350K.",
+    "status": "new"
+  },
+  {
+    "id": "dm-010",
+    "platform": "instagram",
+    "timestamp": "2025-01-15T17:10:00Z",
+    "senderName": "Carlos Mendez",
+    "senderHandle": "@carlosmendez_miami",
+    "senderAvatar": "https://i.pravatar.cc/150?u=carlosmendez",
+    "content": "I need to sell my current property before buying a new one. Do you offer any bridge loan programs or can you connect me with someone who does?",
+    "status": "escalated"
+  },
+  {
+    "id": "dm-011",
+    "platform": "facebook",
+    "timestamp": "2025-01-15T17:55:00Z",
+    "senderName": "Jennifer Lee",
+    "senderHandle": "@jenniferlee",
+    "senderAvatar": "https://i.pravatar.cc/150?u=jenniferlee",
+    "content": "Can you tell me more about the new construction project in Edgewater? When is the expected completion date and what units are still available?",
+    "status": "sent"
+  },
+  {
+    "id": "dm-012",
+    "platform": "instagram",
+    "timestamp": "2025-01-15T18:30:00Z",
+    "senderName": "Thomas Brown",
+    "senderHandle": "@tombrown_realestate",
+    "senderAvatar": "https://i.pravatar.cc/150?u=tombrown",
+    "content": "Looking for a luxury penthouse with ocean views. Budget is $2M+. Do you have anything exclusive that hasn't hit the market yet?",
+    "status": "new"
+  }
+]
